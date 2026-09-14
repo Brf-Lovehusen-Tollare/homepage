@@ -4,7 +4,6 @@ layout: default
 nav_order: 2
 ---
 
+[2025](https://www.brflovehusentollare.se/assets/ar/Brf Lovehusen Tollare - årsredovisning 2025.pdf){: .btn }
 
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 
