@@ -5,9 +5,8 @@ theme: just-the-docs
 url: https://www.brflovehusentollare.se
 
 aux_links:
-  Aux Link 1: https://github.com/just-the-docs/just-the-docs-template
-  Aux Link 2: https://www.google.com
-  Aux Link 3: https://www.yahoo.com
+  Botema (autogiro för avgiften): https://lovehusentollare.botema.se/
+  MyChargeSpace (webbportal för laddstolpen): https://my.charge.space/userapp/login
 
 search_enabled: true
 
