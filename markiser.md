@@ -35,12 +35,12 @@ Bose Markis & Persienn – som i samband med stämman 30 april 2024 visade någr
 Firman erbjuder föreningens medlemmar 15% rabatt på materialkostnad för såväl utvändiga som invändiga solskyddsprodukter.
  
  
-Bose Markis & Persienn
-Ugglevägen 34a
-131 44 Nacka
-08 747 22 25
-[bose@bosemarkis.se](mailto:bose@bosemarkis.se)
-[www.bosemarkis.se](https://www.bosemarkis.se)
+>Bose Markis & Persienn
+>Ugglevägen 34a
+>131 44 Nacka
+>08 747 22 25
+>[bose@bosemarkis.se](mailto:bose@bosemarkis.se)
+>[www.bosemarkis.se](https://www.bosemarkis.se)
 
 {: .warning }
 > OBS!
