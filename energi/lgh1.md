@@ -1,5 +1,5 @@
 ---
 title: Lagenhet #1
-parent: energi
+parent: Energideklarationer
 nav_order: 1
 ---
