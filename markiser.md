@@ -1,5 +1,5 @@
 ---
-title: Markiser
+title: Regler för Markiser
 layout: default
 nav_order: 5
 ---
