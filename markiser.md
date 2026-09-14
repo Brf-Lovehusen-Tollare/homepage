@@ -39,6 +39,11 @@ Bose Markis & Persienn
 Ugglevägen 34a
 131 44 Nacka
 08 747 22 25
-bose@bosemarkis.se
-www.bosemarkis.se
+[bose@bosemarkis.se](mailto:bose@bosemarkis.se)
+[www.bosemarkis.se](https://www.bosemarkis.se)
+
+{: .warning }
+> OBS!
+>
+> Styrelsens godkännande krävs alltid när det gäller åtgärder för något utanför lägenheten, inklusive installation av markiser
 
