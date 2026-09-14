@@ -36,10 +36,15 @@ Firman erbjuder föreningens medlemmar 15% rabatt på materialkostnad för såv�
  
  
 >Bose Markis & Persienn
+
 >Ugglevägen 34a
+>
 >131 44 Nacka
+>
 >08 747 22 25
+>
 >[bose@bosemarkis.se](mailto:bose@bosemarkis.se)
+>
 >[www.bosemarkis.se](https://www.bosemarkis.se)
 
 {: .warning }
