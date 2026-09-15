@@ -1,7 +1,7 @@
 ---
 title: Extra P-platser
 layout: default
-nav_order: 7
+nav_order: 8
 ---
 
 Utöver parkeringsplatsen som ingår/tillhör varje respektive lägenhet har föreningen ytterligare 11 parkeringsplatser som kan hyras.
