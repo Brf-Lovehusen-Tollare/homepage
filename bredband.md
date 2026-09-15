@@ -1,5 +1,5 @@
 ---
-title: Bredband
+title: TV/bredband
 layout: default
 nav_order: 11
 ---
