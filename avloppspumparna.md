@@ -11,7 +11,7 @@ Det finns en röd larmlampa för respektive pump som blinkar när det uppstår e
 {: .warning }
 > Ingnorera inte larmet! Pumpen måste åtgärdas så snart som möjligt vid driftstörning, annars finns det risk för översvämning av avloppsvatten!
 
-Föreningen har haft några incidenter med våtservetter som spolats ner i toaletten, något som pumparna inte klarar. Om detta händer uppstår kostnader för föreningen som drabbar alla medlemmar. Det är inte tillåtet eller lämpligt att spola ner våtservetter i toaletten oavsett vilken lägenhet man bor i.
+Föreningen har haft några incidenter med våtservetter som spolats ner i toaletten, något som pumparna inte klarar. Om detta händer uppstår kostnader för föreningen som drabbar alla medlemmar. Det är varken tillåtet eller lämpligt att spola ner våtservetter i toaletten oavsett vilken lägenhet man bor i.
 
 Vänligen beakta och respektera de tips och rekommendationer som framgår av information från Nacka Vatten & Avfall enligt följande länk:
 [https://www.nacka.se/nackavattenavfall/vatten-och-avlopp/spillvatten/tips-och-rad-avlopp/latt-att-spola-ratt/](https://www.nacka.se/nackavattenavfall/vatten-och-avlopp/spillvatten/tips-och-rad-avlopp/latt-att-spola-ratt/)
