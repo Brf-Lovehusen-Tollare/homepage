@@ -1,5 +1,5 @@
 ---
-title: Lagenheter 7 och 8
+title: Lägenheter 7 och 8
 layout: default
 parent: Energideklarationer
 nav_order: 4
