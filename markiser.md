@@ -1,7 +1,7 @@
 ---
 title: Regler för Markiser
 layout: default
-nav_order: 5
+nav_order: 7
 ---
 
 ## Regler för markiser inom Brf Lovehusen Tollare - beslutade vid föreningsstämma 2024-04-30
