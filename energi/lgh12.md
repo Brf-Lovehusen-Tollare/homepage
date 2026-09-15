@@ -1,5 +1,6 @@
 ---
 title: Lagenheter 1 och 2
+layout: default
 parent: Energideklarationer
 nav_order: 1
 ---

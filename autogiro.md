@@ -1,7 +1,7 @@
 ---
 title: Avgiftsavier och autogiro
 layout: default
-nav_order: 9
+nav_order: 5
 ---
 
 Föreningen har ett avtal med Botema Fastighets AB om ekonomisk förvaltning. Botema administrerar bl a utskick av avgiftsavier till medlemmarna.
