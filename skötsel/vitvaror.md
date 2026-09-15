@@ -22,6 +22,7 @@ last_modified_date: 2026-09-15
 
 [Siemens KI87SADE0 Integrerad Kyl/frys fullhöjd](https://www.brflovehusentollare.se/assets/skötselråd/KI87SADE0 Kyl-Frys.pdf){: .btn }
 
+[Nimo Easy Dryer 1900 Torkskåp](https://www.brflovehusentollare.se/assets/skötselråd/Nimo Easy Dryer 1900.pdf){: .btn }
 
 ## Lägenheter 17-26
 
