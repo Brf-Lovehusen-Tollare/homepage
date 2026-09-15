@@ -19,7 +19,7 @@ nav_order: 2
 
 [Siemens ED811FQ15E Induktionshäll](https://www.brflovehusentollare.se/assets/skötselråd/ED811FQ15E Induktionshäll.pdf){: .btn }
 
-[Siemens KI87SADE0 Integerad Kyl/frys fullhöjd](https://www.brflovehusentollare.se/assets/skötselråd/assets/skötselråd/KI87SADE0 Kyl-Frys.pdf){: .btn }
+[Siemens KI87SADE0 Integrerad Kyl/frys fullhöjd](https://www.brflovehusentollare.se/assets/skötselråd/KI87SADE0 Kyl-Frys.pdf){: .btn }
 
 
 ## Lägenheter 17-26
