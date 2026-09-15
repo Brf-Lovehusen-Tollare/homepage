@@ -4,7 +4,8 @@ layout: default
 nav_order: 13
 ---
 
-## 
+## Fel med vanlig drift av lägenheten
+
 Föreningen har ett avropsavtal med den tekniska förvaltaren BK Fastighetsservice AB. Felanmälan
 avseende drift och underhåll görs till en bemannad telefonmottagning måndag-fredag kl 07.00-
 16.00 på tel 08-556 966 30, eller per mejl till brevladan.bkfastighetsservice.se
