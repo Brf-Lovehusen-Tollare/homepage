@@ -13,6 +13,6 @@ avseende drift och underhåll görs till en bemannad telefonmottagning måndag-f
 Vid akuta fel utanför dessa tider, d v s kl 16.00-07.00 kontaktas istället BK-Jouren på tel 08-714 82 10.
 
 {: .warning }
-> Vid felavhjälpande som beror på handhavandefel vidaredebiteras föreningens kostnad till medlemmen. Det rekommenderas att man kontaktar styrelsen först i icke-akut situationener innan BK Fastighetsservice kontaktas.
+> Vid felavhjälpande som beror på handhavandefel vidaredebiteras föreningens kostnad till medlemmen. Det rekommenderas att man kontaktar styrelsen först i icke-akuta situationener innan BK Fastighetsservice kontaktas.
 
 ## Ursprungsfel pga entreprenaden/tillverkning av föreningens lägenheter:
