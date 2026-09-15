@@ -2,6 +2,7 @@
 title: Uppvärmning, ventilation och tappvarmvatten
 layout: default
 nav_order: 13
+last_modified_date: 2026-09-15
 ---
 
 Lägenheterna försörjs med uppvärmning, ventilation och tappvarmvatten genom lägenhetsseparata

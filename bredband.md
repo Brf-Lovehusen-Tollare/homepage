@@ -2,6 +2,7 @@
 title: TV/bredband
 layout: default
 nav_order: 11
+last_modified_date: 2026-09-15
 ---
 
 Brf Lovehusen Tollare är medlem i en samfällighetsförening - Tollare Fiber Samfällighetsförening -

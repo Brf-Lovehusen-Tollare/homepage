@@ -2,6 +2,7 @@
 title: El
 layout: default
 nav_order: 9
+last_modified_date: 2026-09-15
 ---
 
 Nätägare i området är Boo Energi. Boende tecknar själva avtal om elförsäljning. Man behöver lägenhetens anläggnings-ID för att kunna teckna elabonnemanget.

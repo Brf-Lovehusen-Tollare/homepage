@@ -3,6 +3,7 @@ title: Lägenheter 7 och 8
 layout: default
 parent: Energideklarationer
 nav_order: 4
+last_modified_date: 2026-09-15
 ---
 
 [Lgh 7 & 8 - Sammanfattning](https://www.brflovehusentollare.se/assets/energi/Tollare%201_508/Sammanfattning-1565293.pdf){: .btn }

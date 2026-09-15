@@ -2,6 +2,7 @@
 title: Avfall
 layout: default
 nav_order: 12
+last_modified_date: 2026-09-15
 ---
 
 Avfallshämtning sker veckovis (onsdagar) och administreras av föreningen. 

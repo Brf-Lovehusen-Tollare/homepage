@@ -2,6 +2,7 @@
 title: Avloppspumparna
 layout: default
 nav_order: 6
+last_modified_date: 2026-09-15
 ---
 
 I områden 1 & 2 (för lägenheter 1 - 6 samt 9 - 16) finns det avloppspumpar som pumpar upp avloppsvatten från sutterängplanen till avlopsledningen på Tollarevägen.

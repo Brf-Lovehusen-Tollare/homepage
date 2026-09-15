@@ -3,6 +3,7 @@ title: Vitvaror bruksanvisningar
 layout: default
 parent: Städning och skötsel
 nav_order: 2
+last_modified_date: 2026-09-15
 ---
 
 ## Samtliga lägenheter

@@ -2,6 +2,7 @@
 title: Energideklarationer
 layout: default
 nav_order: 15
+last_modified_date: 2026-09-15
 ---
 
 Var och en kan hämta sin energideklaration antingen här på Föreningens hemsida, eller på Boverket via denna länk [https://www.boverket.se/sv/energideklaration/sok-energideklaration/](https://www.boverket.se/sv/energideklaration/sok-energideklaration/).

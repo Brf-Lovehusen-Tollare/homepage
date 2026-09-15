@@ -2,6 +2,7 @@
 title: Felanmälan
 layout: default
 nav_order: 3
+last_modified_date: 2026-09-15
 ---
 
 ## Fel med vanlig drift av lägenheten

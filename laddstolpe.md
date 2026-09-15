@@ -2,6 +2,7 @@
 title: Laddstolpe
 layout: default
 nav_order: 10
+last_modified_date: 2026-09-15
 ---
 
 Till varje bostadsrätt hör en parkeringsplats. Till denna plats finns laddmöjlighet. För att aktivera laddningsfunktionen krävs tillgång till en webbportal. Kontakta styrelsen för mer information.
