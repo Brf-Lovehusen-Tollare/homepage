@@ -1,7 +1,7 @@
 ---
 title: Felanmälan
 layout: default
-nav_order: 13
+nav_order: 3
 ---
 
 ## Fel med vanlig drift av lägenheten
