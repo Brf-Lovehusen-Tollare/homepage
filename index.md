@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-last_modified_date: 2026-09-15
+last_modified_date: 2026-09-16
 ---
 
 ## Välkommen till Brf Lovehusen Tollares homepage!
@@ -20,7 +20,7 @@ Husen är grupperade i tre delområden med adresserna:
 
 Att bo i bostadsrätt innebär att man gemensamt äger och förvaltar fastigheterna. Som enskild
 medlem ansvarar man för bostadsrättens inre underhåll. Gränsdragningen mellan föreningens och
-den enskilde medlemmens underhållsansvar framgår av föreningens [stadgar]({% link /stadgar.md %}). Genom att engagera sig
+den enskilde medlemmens underhållsansvar framgår av föreningens [stadgar]({% link stadgar.md %}). Genom att engagera sig
 i föreningen hjälps man åt att dela på arbetet, och man får möjlighet att vara med och påverka.
 
 
