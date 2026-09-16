@@ -1,5 +1,5 @@
 ---
-title: Extra P-platser
+title: Extra parkeringsplatser
 layout: default
 nav_order: 8
 last_modified_date: 2026-09-16
