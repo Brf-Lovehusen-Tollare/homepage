@@ -5,9 +5,9 @@ nav_order: 6
 last_modified_date: 2026-09-16
 ---
 
-I områden 1 & 2 (för lägenheter 1 - 6 samt 9 - 16) finns det avloppspumpar som pumpar upp avloppsvatten från sutterängplanen till avlopsledningen på Tollarevägen.
+I område 1 & 2 (för lägenheter 1 - 6 samt 9 - 16) finns det en avloppspump som pumpar upp avloppsvatten från sutterängplanen till avlopsledningen på Tollarevägen.
 
-Det finns en röd larmlampa för respektive pump som blinkar när det uppstår ett fel. Om det blinkar ska man (som bor i området som larmar) inte använda toan i sutterängen, tvättmaskinen, eller vattenkranen i tvättstugan och omedelbart ta kontakt med styrelsen. Om man inte kan få tag i styrelsen vid pågående larm ska man kontakta föreningens avtalade fastighetsservice bolag (se [felanmälan]({% link felanmälan.md %}) för kontakt information). 
+Det finns en röd larmlampa för varje respektive pump som blinkar när det uppstår ett fel. Om det blinkar ska man (som bor i området som larmar) inte använda toan i sutterängen, tvättmaskinen, eller vattenkranen i tvättstugan tills problemet åtgärdas och omedelbart ta kontakt med styrelsen. Om man inte kan få tag i styrelsen vid pågående larm ska man kontakta föreningens avtalade fastighetsservice bolag (se [felanmälan]({% link felanmälan.md %}) för kontakt information). 
 
 ![](http://www.brflovehusentollare.se/assets/larmlampa.jpeg)
 Larmlampan i område 1
