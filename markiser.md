@@ -5,6 +5,9 @@ nav_order: 7
 last_modified_date: 2026-09-15
 ---
 
+{: .warning }
+> Styrelsens godkännande krävs alltid när det gäller åtgärder för något utanför lägenheten, inklusive installation av markiser
+
 ## Regler för markiser inom Brf Lovehusen Tollare - beslutade vid föreningsstämma 2024-04-30
 
 Efter konsultation av en firma som tillhandahåller markiser föreslår styrelsen följande regler för
@@ -44,9 +47,4 @@ Firman erbjuder föreningens medlemmar 15% rabatt på materialkostnad för såv�
 >08 747 22 25  
 >[bose@bosemarkis.se](mailto:bose@bosemarkis.se)  
 >[www.bosemarkis.se](https://www.bosemarkis.se)
-
-{: .warning }
-> OBS!
->
-> Styrelsens godkännande krävs alltid när det gäller åtgärder för något utanför lägenheten, inklusive installation av markiser
 

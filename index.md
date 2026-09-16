@@ -17,6 +17,7 @@ Husen är grupperade i tre delområden med adresserna:
 | 2 | Tollarevägen 29A-35B | 9-16 |
 | 3 | Tollarevägen 8A-16B | 17-26 |
 
+Syftet med denna webbsida är att vara en samlingplats för hjälpsam information för föreningens medlemmar. Det ges inga garantier om att informationen här kommer hållas uppdaterad regelbundet. Ta kontakt med [styrelsen]({% link styrelsen.md %}) med frågor eller funderingar gällande din lägenhet eller föreningen.
 
 Att bo i bostadsrätt innebär att man gemensamt äger och förvaltar fastigheterna. Som enskild
 medlem ansvarar man för bostadsrättens inre underhåll. Gränsdragningen mellan föreningens och
