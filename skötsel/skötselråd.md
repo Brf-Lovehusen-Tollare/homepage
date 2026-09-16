@@ -16,6 +16,6 @@ last_modified_date: 2026-09-16
 | Badkar         | [Duravit Badkar Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Duravit D-Code Badkar Skötselråd.pdf){: .btn } |
 | Trägolv         | [Kährs Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselråd- Kährs.pdf){: .btn } |
 | Handdukstorkar         | [Nordhem Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselråd- Nordhem.pdf){: .btn } |
-| Bricmate Granitkeramik (Badrum golv och vägg samt golvet i hallen)        | [Bricmate Granitkeramik Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar granitkeramik Bricmate.pdf){: .btn } |
+| Bricmate Granitkeramik (Badrum golv och vägg, samt golv i hallen, golv i tvättstugan, golv i tekniskarummet)        | [Bricmate Granitkeramik Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar granitkeramik Bricmate.pdf){: .btn } |
 | OrganoWood Trä (Balkonger och terasser)        | [OrganoWood Träskydd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar OrganoWood.pdf){: .btn } |
 | MarmiFuterno Stone (Kalksten/Limestone köksbänk och fönsterbrädor)       | [MarmiFuterno Manual](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar stenbänkar kök och fönster.pdf){: .btn } |
