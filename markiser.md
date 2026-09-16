@@ -34,6 +34,9 @@ typerna av markiser.
 ![](http://www.brflovehusentollare.se/assets/markiser/Sandatex%205407%20106.jpg)
 ![](http://www.brflovehusentollare.se/assets/markiser/zip%20bild.jpg)
 
+[Produktblad StyRa Fönstermarkis F420](https://www.brflovehusentollare.se/assets/markiser/StyRa Produktblad Fönstermarkis F420 .pdf){: .btn }
+[Produktblad StyRa Zip Screen Z460.pdf](https://www.brflovehusentollare.se/assets/markiser/StyRa Produktblad Zip Screen Z460.pdf){: .btn }
+
 Bose Markis & Persienn – som i samband med stämman 30 april 2024 visade några exempel på sina produkter för solskydd.
  
 Firman erbjuder föreningens medlemmar 15% rabatt på materialkostnad för såväl utvändiga som invändiga solskyddsprodukter.
