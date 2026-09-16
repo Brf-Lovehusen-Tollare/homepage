@@ -10,10 +10,11 @@ last_modified_date: 2026-09-15
 Brf Lovehusen Tollare består av 13 parhus med 26 lägenheter längs Tollarevägen.  
 
 Husen är grupperade i tre delområden med adresserna:  
-
-Område 1 Tollarevägen 39A-45B  
-Område 2 Tollarevägen 29A-35B  
-Område 3 Tollarevägen 8A-16B  
+| Område   | Adresser     |
+|:-------------|:------------------|
+| 1 | Tollarevägen 39A-45B |
+| 2 | Tollarevägen 29A-35B |
+| 3 | Tollarevägen 8A-16B |
 
 
 Att bo i bostadsrätt innebär att man gemensamt äger och förvaltar fastigheterna. Som enskild
