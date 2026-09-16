@@ -3,7 +3,7 @@ title: Skötselråd
 layout: default
 parent: Städning och skötsel
 nav_order: 1
-last_modified_date: 2026-09-15
+last_modified_date: 2026-09-16
 ---
 
 | Material eller Varan   | Skötselråd        |
@@ -17,6 +17,5 @@ last_modified_date: 2026-09-15
 | Trägolv         | [Kährs Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselråd- Kährs.pdf){: .btn } |
 | Handdukstorkar         | [Nordhem Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselråd- Nordhem.pdf){: .btn } |
 | Bricmate Granitkeramik (Badrum golv och vägg samt golvet i hallen)        | [Bricmate Granitkeramik Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar granitkeramik Bricmate.pdf){: .btn } |
-| OrganoWood Trä (Balkonger och terasser)        | [OrganoWood Träskydd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar granitkeramik Bricmate.pdf){: .btn } |
-| MarmiFuterno Stone (Kalksten/Limestone köksbänk och fönsterbrädor)       | [MarmiFuterno Manual](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar stenbänkar kök och fönster.pdf){: .btn } |
+| OrganoWood Trä (Balkonger och terasser)        | [OrganoWood Träskydd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar OrganoWood.pdf){: .btn } |
 | MarmiFuterno Stone (Kalksten/Limestone köksbänk och fönsterbrädor)       | [MarmiFuterno Manual](https://www.brflovehusentollare.se/assets/skötselråd/Skötselanvisningar stenbänkar kök och fönster.pdf){: .btn } |
