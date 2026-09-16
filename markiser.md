@@ -2,11 +2,11 @@
 title: Regler för Markiser
 layout: default
 nav_order: 7
-last_modified_date: 2026-09-15
+last_modified_date: 2026-09-16
 ---
 
 {: .warning }
-> Styrelsens godkännande krävs alltid när det gäller åtgärder för något utanför lägenheten, inklusive installation av markiser
+> [Styrelsens]({% link styrelsen.md %}) godkännande krävs alltid när det gäller åtgärder för något utanför lägenheten, inklusive installation av markiser
 
 ## Regler för markiser inom Brf Lovehusen Tollare - beslutade vid föreningsstämma 2024-04-30
 
