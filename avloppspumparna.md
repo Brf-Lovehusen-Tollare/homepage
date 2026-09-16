@@ -11,7 +11,7 @@ Det finns en röd larmlampa för respektive pump som blinkar när det uppstår e
 
 ![](http://www.brflovehusentollare.se/assets/larmlampa.jpeg)
 Larmlampan i område 1
-{: .text-center}
+{: .text-center .fw-700}
 
 {: .warning }
 > Ingnorera inte larmet! Pumpen måste åtgärdas så snart som möjligt vid driftstörning, annars finns det risk för översvämning av avloppsvatten!
