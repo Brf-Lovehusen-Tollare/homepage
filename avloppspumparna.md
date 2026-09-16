@@ -7,7 +7,7 @@ last_modified_date: 2026-09-15
 
 I områden 1 & 2 (för lägenheter 1 - 6 samt 9 - 16) finns det avloppspumpar som pumpar upp avloppsvatten från sutterängplanen till avlopsledningen på Tollarevägen.
 
-Det finns en röd larmlampa för respektive pump som blinkar när det uppstår ett fel. Om det blinkar ska man ta omedelbar kontakt med styrelsen. Om man inte kan få tag i styrelsen vid pågående larm ska man kontakta föreningens avtalade fastighetsservice bolag (se sidan om felanmälan för kontakt information). 
+Det finns en röd larmlampa för respektive pump som blinkar när det uppstår ett fel. Om det blinkar ska man ta omedelbar kontakt med styrelsen. Om man inte kan få tag i styrelsen vid pågående larm ska man kontakta föreningens avtalade fastighetsservice bolag (se [felanmälan]({% link felanmälan.md %}) för kontakt information). 
 
 {: .warning }
 > Ingnorera inte larmet! Pumpen måste åtgärdas så snart som möjligt vid driftstörning, annars finns det risk för översvämning av avloppsvatten!
