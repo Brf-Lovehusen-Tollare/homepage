@@ -10,7 +10,7 @@ I områden 1 & 2 (för lägenheter 1 - 6 samt 9 - 16) finns det avloppspumpar so
 Det finns en röd larmlampa för respektive pump som blinkar när det uppstår ett fel. Om det blinkar ska man ta omedelbar kontakt med styrelsen. Om man inte kan få tag i styrelsen vid pågående larm ska man kontakta föreningens avtalade fastighetsservice bolag (se [felanmälan]({% link felanmälan.md %}) för kontakt information). 
 
 ![](http://www.brflovehusentollare.se/assets/larmlampa.jpeg)
-Larmlampan i område 1
+Larmlampan i område 1 {.text-center}
 
 {: .warning }
 > Ingnorera inte larmet! Pumpen måste åtgärdas så snart som möjligt vid driftstörning, annars finns det risk för översvämning av avloppsvatten!
