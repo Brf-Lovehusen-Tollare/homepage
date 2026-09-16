@@ -1,5 +1,5 @@
 ---
-title: Skötselråd
+title: Skötselråd dokument
 layout: default
 parent: Städning och skötsel
 nav_order: 1
