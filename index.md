@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-last_modified_date: 2026-09-16
+last_modified_date: 2026-09-22
 ---
 
 ## Välkommen till Brf Lovehusen Tollares homepage!
