@@ -15,7 +15,7 @@ Akuta problem som kan orsaka personskada eller skador på byggnad eller egendom 
 
 Föreningen har ett avropsavtal med den tekniska förvaltaren BK Fastighetsservice AB. Felanmälan
 avseende drift och underhåll görs till en bemannad telefonmottagning måndag-fredag kl 07.00-
-16.00 på tel 08-556 966 30, eller på deras webbsida [https://bkfastighetsservice.se/)](https://bkfastighetsservice.se).
+16.00 på tel 08-556 966 30, eller på deras webbsida [https://bkfastighetsservice.se](https://bkfastighetsservice.se).
 
 Vid akuta fel utanför dessa tider, d v s kl 16.00-07.00 kontaktas istället BK-Jouren på tel 08-714 82 10.
 
