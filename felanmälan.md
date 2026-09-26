@@ -5,9 +5,9 @@ nav_order: 3
 last_modified_date: 2026-09-26
 ---
 
-Akuta problem som kan orsaka personskada eller skador på byggnad eller egendom ska skyndsamt anmälas till både [styrelsen]({% link styrelsen.md %}) och BK Fastighetsservice.
+Akuta problem som kan orsaka personskada eller skador på byggnad eller egendom ska skyndsamt anmälas till både [styrelsen]({% link styrelsen.md %}) och föreningens tekniska förvaltare. 
 * Exempel på akuta fel är vattenläckor, större elfel och andra händelser som riskerar att orsaka omfattande skador.
-* Fel av mindre akut karaktär ska anmälas till styrelsen via e-post: [styrelsen@brflovehusentollare.se](mailto:styrelsen@brflovehusentollare.se)
+* Fel av mindre akut karaktär ska anmälas till [styrelsen]({% link styrelsen.md %}) via e-post
 * Vid omedelbar fara för liv, hälsa eller egendom ska relevant räddnings- eller larmtjänst kontaktas.
 
 {: .warning }
