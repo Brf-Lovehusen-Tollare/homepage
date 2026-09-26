@@ -10,3 +10,6 @@ Till varje bostadsrätt hör en parkeringsplats. Till denna plats finns laddmöj
 [Webbportalen för styrningen av laddstolpen/uttaget](https://my.charge.space/userapp/login)
 
 [Video om hur man använder webbportalen](https://drive.google.com/drive/folders/1h1M4KbZXyoVoryzk4zaGQrDVNm-Gn5js?usp=drive_link)
+
+
+El- eller laddbara bilar får endast laddas i godkända laddboxar. Laddning via vanliga eluttag eller förlängningskablar är inte tillåten.
