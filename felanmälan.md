@@ -11,7 +11,7 @@ Akuta problem som kan orsaka personskada eller skador på byggnad eller egendom 
 * Vid omedelbar fara för liv, hälsa eller egendom ska relevant räddnings- eller larmtjänst kontaktas.
 
 {: .warning }
-> Om en medlem kontaktar BK Fastighetsservice eller annan hantverkare utan att först ha rådgjort med [styrelsen]({% link styrelsen.md %}) ska medlemmen själv stå för kostnaden, om inte styrelsen i efterhand skriftligen bekräftar att åtgärden ska bekostas av föreningen.  
+> Om en medlem kontaktar föreningens tekniska förvaltare eller annan hantverkare utan att först ha rådgjort med [styrelsen]({% link styrelsen.md %}) ska medlemmen själv stå för kostnaden, om inte styrelsen i efterhand skriftligen bekräftar att åtgärden ska bekostas av föreningen.  
 
 Föreningen har ett avropsavtal med den tekniska förvaltaren BK Fastighetsservice AB. Felanmälan
 avseende drift och underhåll görs till en bemannad telefonmottagning måndag-fredag kl 07.00-
