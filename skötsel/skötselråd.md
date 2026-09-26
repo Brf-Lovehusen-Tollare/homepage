@@ -3,10 +3,10 @@ title: Skötselråd dokument
 layout: default
 parent: Städning och skötsel
 nav_order: 1
-last_modified_date: 2026-09-16
+last_modified_date: 2026-09-26
 ---
 
-| Material eller Varan   | Skötselråd        |
+| Material/Varan   | Skötselråd        |
 |:-------------|:------------------|
 | Siemens Vitvaror         | [Siemens Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselråd- Siemens.pdf){: .btn } |
 | Marbodal Köksluckor/kökslådor osv | [Marbodal Skötselråd](https://www.brflovehusentollare.se/assets/skötselråd/Skötselråd- Marbodal.pdf){: .btn }   |
